@@ -1,0 +1,8 @@
+{
+  "name": "STEM Learning Community",
+  "description": "A comprehensive Professional Learning Community platform for K-12 STEM educators to collaborate, share resources, and innovate.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
